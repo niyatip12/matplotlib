@@ -1,11 +1,13 @@
 # Matplotlib
-Matplotlib Homework - The Power of Plots
-Background
+
+#Matplotlib Homework - The Power of Plots
+
+#Background
 What good is data without a good plot to tell the story?
 
 So, let's take what you've learned about Python Matplotlib and apply it to a real-world situation and dataset:
 
-Laboratory
+
 
 While your data companions rushed off to jobs in finance and government, you remained adamant that science was the way for you. Staying true to your mission, you've joined Pymaceuticals Inc., a burgeoning pharmaceutical company based out of San Diego. Pymaceuticals specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
@@ -44,7 +46,9 @@ You must use proper labeling of your plots, to include properties such as: plot 
 
 See the starter workbook for help on what modules to import and expected format of the notebook.
 
-Hints and Considerations
+
+#Hints and Considerations
+
 Be warned: These are very challenging tasks. Be patient with yourself as you trudge through these problems. They will take time and there is no shame in fumbling along the way. Data visualization is equal parts exploration, equal parts resolution.
 
 You have been provided a starter notebook. Use the code comments as a reminder of steps to follow as you complete the assignment.
@@ -67,5 +71,5 @@ Again, don't let the magnitude of a programming task scare you off. Ultimately, 
 
 Get help when you need it! There is never any shame in asking. But, as always, ask a specific question. You'll never get a great answer to "I'm lost."
 
-Copyright
+#Copyright
 Trilogy Education Services © 2019. All Rights Reserved.
